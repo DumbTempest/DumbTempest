@@ -1,10 +1,12 @@
-# 💫 About Me:
-# Hello! 🖖 My name is Rajat<br> <br>> I love to tinker around allat<br>> Engineer by Degree and Heart<br>> Golang and Typescript enjoyer<br>
-<a href="https://rajat8736.netlify.app/">My site</a>
-<br>
+## 💫 About Me
 
+### Hello! 🖖 My name is Rajat
 
-# Stats:
+\> I love to tinker around allat  
+\> Engineer by Degree and Heart  
+\> Golang and Typescript enjoyer  
+\> Here is [My site](https://rajat8736.netlify.app/)
 
-![](https://nirzak-streak-stats.vercel.app/?user=DumbTempest&theme=gotham&hide_border=false)<br/>
+## 📊 Stats
+![](https://nirzak-streak-stats.vercel.app/?user=DumbTempest&theme=gotham&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DumbTempest&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
